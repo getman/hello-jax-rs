@@ -11,6 +11,12 @@
 
     <modules>
         <module>war-restful-service</module>
+        <module>war-restful-db-service</module>
+        <module>restful-converter-service</module>
+        <module>plain-restful-pocket-service</module>
+        <module>war-plain-restful-converter-service</module>
+        <module>war-rest-plain-pocket-service</module>
+        <module>converter</module>
     </modules>
     
 </project>
