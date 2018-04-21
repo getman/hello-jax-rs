@@ -1,4 +1,4 @@
-package ru.aparfenov.ws.restful;
+package ru.aparfenov.restful.pocket.restful;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
