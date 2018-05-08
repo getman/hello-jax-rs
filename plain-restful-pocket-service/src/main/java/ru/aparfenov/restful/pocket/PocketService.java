@@ -4,7 +4,6 @@ import ru.aparfenov.restful.pocket.dao.PocketDao;
 import ru.aparfenov.restful.pocket.model.PocketElement;
 
 import javax.ejb.EJB;
-import javax.persistence.Query;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

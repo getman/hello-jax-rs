@@ -20,11 +20,11 @@
             <artifactId>restful-converter-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <dependency>
+        <!--<dependency>
             <groupId>ru.aparfenov.ws</groupId>
             <artifactId>plain-restful-pocket-service</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
     <build>

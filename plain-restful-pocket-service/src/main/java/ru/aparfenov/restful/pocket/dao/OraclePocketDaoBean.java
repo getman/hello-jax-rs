@@ -4,7 +4,6 @@ import ru.aparfenov.restful.pocket.model.PocketElement;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.Resource;
-import javax.ejb.Local;
 import javax.ejb.Stateless;
 import javax.sql.DataSource;
 import java.sql.*;
